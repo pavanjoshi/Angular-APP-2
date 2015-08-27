@@ -1,5 +1,4 @@
-# assign2-frontend
-Angular APP 2 Frontend
+# Angular APP 2 Frontend
 <br>
 Displays all Image Labels in DB by calling a REST API(node server) running and fetching from mongodb
 <br>
